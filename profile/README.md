@@ -49,7 +49,7 @@ Our system consists of five stable components forming an organic, self-evolving 
 
 - 🌐 **Website**: [superaihuman.ai](https://superaihuman.ai)
 - 📧 **Email**: [hello@superaihuman.ai](mailto:hello@superaihuman.ai)
-- 🐦 **Twitter/X**: [@superaihuman_ai](https://x.com/superaihuman_ai)
+- 🐦 **Twitter/X**: [@superaihuman_ai](https://x.com/superaihuman)
 
 ---
 
