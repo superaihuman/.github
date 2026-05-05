@@ -21,17 +21,23 @@ This isn't about replacing humans. It's about **releasing the boundaries of huma
 Our system consists of five stable components forming an organic, self-evolving cognitive loop:
 
 ```
-┌─────────────────────────────────────────┐
-│   SuperAIHuman (Evolutionary State)      │  ← Cognitive evolution
-├─────────────────────────────────────────┤
-│   Augments (Application Layer)          │  ← Domain enhancements
-├─────────────────────────────────────────┤
-│   Nexus OS (Connection/Protocol Layer)  │  ← System integration
-├─────────────────────────────────────────┤
-│   The Pazity Neural Brain (Core Engine) │  ← Living knowledge network
-├─────────────────────────────────────────┤
-│   EvoCrawl (Information Perception)      │  ← Data ingestion
-└─────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│              SuperAIHuman (Evolutionary State)                   │  ← Cognitive evolution
+│          Enhanced Understanding · Enhanced Reasoning             |
+|          Enhanced Decision Making · Enhanced Collaboration       │
+├──────────────────────────────────────────────────────────────────┤
+│                   Augments (Application Layer)                   │  ← Domain enhancements
+│    Research · Code · Security · Meeting · Writer · Analyst       │
+├──────────────────────────────────────────────────────────────────┤
+│             Nexus OS (Connection/Protocol Layer)                 │  ← System integration
+│           Slack · Nexus Bar · Spaces · Connectors                │
+├──────────────────────────────────────────────────────────────────┤
+│           The Pazity Neural Brain (Core Intelligence Engine)     │  ← Living knowledge network
+│    EvoCrawl → Knowledge Graph → Omni → Search → Reasoning        │
+├──────────────────────────────────────────────────────────────────┤
+│   Cognitive Infrastructure OS (Execution & State Infrastructure) │  ← Infrastructure foundation
+│  Sandbox Engine · State Fabric · Agent Runtime · Control Plane   │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
